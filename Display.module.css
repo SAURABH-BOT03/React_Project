@@ -1,0 +1,8 @@
+.display {
+  position: relative;
+  width: 250px;
+  height: 50px;
+  margin: 20px;
+  padding: 10px;
+  font-size: x-large;
+}
